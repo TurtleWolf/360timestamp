@@ -1,16 +1,6 @@
+Been following the tutorial at  
+[Timestamp Microservice Part 2: Free Code Camp API and Microservice Backend Development Certification](https://youtu.be/Iw1ZR92czdw "CodingTutorials360")
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
 If you want, you can also go watch some training videos at
 http://www.youtube.com/user/c9ide.
 
