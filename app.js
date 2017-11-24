@@ -36,6 +36,6 @@ app.get('/dateValues/:datefal1', function(req, res, next){
 });
 
 //app listening
-app.listen($PORT, function(){
+app.listen(process.env.PORT, process.env.IP, function(){
     console.log("omg");
 })
